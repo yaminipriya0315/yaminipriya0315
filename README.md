@@ -20,32 +20,28 @@
 
 ## 🌟 About Me
 
-💡 I am a motivated and detail-oriented **AI & Software Developer** with a strong passion for building intelligent systems that solve real-world problems.
+💡 I am a motivated and passionate **AI & Software Developer** who loves building intelligent systems that solve real-world problems.
 
-I enjoy working at the intersection of **data, algorithms, and real-world applications**, and continuously strive to improve my technical and problem-solving skills.
-
-- 🎓 **B.Tech in Computer Science (AI & ML)** with CGPA **8.85 / 10**  
-- 🤖 Strong foundation in **Machine Learning, Deep Learning, Python, and Java**  
-- 📊 Experience in **data analysis, model building, and prediction systems**  
-- 🌐 Built **end-to-end applications using web technologies and backend frameworks**  
-- 🚀 Passionate about creating **impactful AI-driven solutions**  
+- 🎓 **B.Tech in Computer Science (AI & ML)** — CGPA: **8.85 / 10**  
+- 🤖 Skilled in **Machine Learning, Deep Learning, Python, and Java**  
+- 📊 Experience in **data analysis, predictive modeling, and AI systems**  
+- 🌐 Built **end-to-end applications using web technologies**  
+- 🎯 Goal: Become a **high-impact Software Engineer in AI systems**
 
 ---
 
 ## 🔥 Currently Working On
 
-- 📚 Practicing **Data Structures & Algorithms** for strong problem-solving  
-- 🤖 Building **Machine Learning & Deep Learning projects**  
-- 💻 Improving **backend development skills (Java & Flask)**  
-- 🌱 Exploring **real-world AI applications and system design basics**  
+- 📚 Practicing **Data Structures & Algorithms**
+- 🤖 Building **Machine Learning & Deep Learning Projects**
+- 💻 Improving **Backend Development (Java & Flask)**
+- 🌱 Exploring **real-world AI applications**
 
 ---
 
 ## 🎯 Career Objective
 
-To work in a dynamic and growth-oriented environment where I can apply my technical knowledge, continuously learn new technologies, and contribute to innovative solutions that solve real-world challenges.
-
-I aim to grow into a **high-impact Software Engineer specializing in AI systems**.
+To work in a growth-oriented organization where I can apply my skills, continuously learn, and contribute to innovative solutions that solve real-world problems.
 
 ---
 
@@ -53,10 +49,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 🔗 **[View My Resume](https://drive.google.com/file/d/1nXfZc4jxNz2ItKjpdFxhvMBXP_1twWo7/view)**
 
-💼 I am actively seeking opportunities in **Software Development and AI/ML roles** where I can:
-- Apply my technical skills in real-world scenarios  
-- Learn from experienced professionals  
-- Contribute to meaningful and impactful projects  
+💼 I am actively seeking opportunities in **Software Development and AI/ML roles** and excited to contribute to impactful projects.
 
 ---
 
@@ -77,14 +70,14 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 ### 🧠 Diabetic Retinopathy Detection Using Deep Learning
 
-💡 Developed an AI-based medical screening system to detect and classify diabetic retinopathy from retinal images.
+💡 Built an AI-based medical screening system to classify diabetic retinopathy severity.
 
-✨ **Key Contributions:**
-- 🧠 Implemented **EfficientNet-B5** for high-performance image classification  
-- 🩺 Classified disease into **five severity levels**  
-- 🎨 Used **CLAHE preprocessing** to enhance image quality  
-- 🌐 Built backend using **Flask** for prediction and reporting  
-- 📊 Created a complete pipeline from input image to diagnostic output  
+✨ **Key Highlights:**
+- 🧠 Used **EfficientNet-B5** for image classification  
+- 🩺 Classified into **five severity levels**  
+- 🎨 Applied **CLAHE preprocessing** for image enhancement  
+- 🌐 Developed backend using **Flask**  
+- 📊 End-to-end pipeline from input image to prediction  
 
 🛠️ Tech Stack: Python, TensorFlow/Keras, OpenCV, Flask  
 
@@ -93,33 +86,40 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 ## 💼 Projects Showcase
 
 ### 📈 Stock Market Estimator
-🔹 Developed a financial analysis tool using **Yahoo Finance API**  
-🔹 Processed and cleaned stock data using **Pandas**  
-🔹 Performed trend analysis and visualization using **Matplotlib**  
-🔹 Gained insights into real-world financial data behavior  
+🔹 Built using **Yahoo Finance API**  
+🔹 Performed data analysis using **Pandas**  
+🔹 Visualized trends using **Matplotlib**  
 
 🛠️ Tech Stack: Python, Pandas, Matplotlib  
 
 ---
 
 ### 🎟️ Movie Ticket Booking Website
-🔹 Built a responsive web application for ticket booking  
-🔹 Implemented movie filtering, showtime selection, and seat layout  
-🔹 Designed an interactive and user-friendly interface  
+🔹 Developed a responsive booking system  
+🔹 Implemented filtering, showtime selection, and UI interactions  
+🔹 Built using modern frontend technologies  
 
 🛠️ Tech Stack: HTML, CSS, JavaScript  
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack & Skills
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,mongodb,git,github,vscode" />
 </p>
+
+### 🔹 Programming Languages
+`Python` • `Java` • `C`
+
+### 🔹 Web Development
+`HTML` • `CSS` • `JavaScript`
+
+### 🔹 Machine Learning
+`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
+
+### 🔹 Databases
+`SQL` • `MongoDB (Basics)`
 
 ---
 
@@ -150,58 +150,56 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 ## 🏆 Achievements
 
-- 🎓 Maintained strong academic performance (**8.85 CGPA**)  
-- 🤖 Developed an **AI-based medical diagnostic system**  
-- 📊 Built a **financial data analysis project using real datasets**  
-- 💼 Completed internships in **AI/ML and Python Development**  
+- 🎓 CGPA: **8.85 / 10**  
+- 🤖 Built AI-based medical project  
+- 📊 Developed real-world data analysis project  
+- 💼 Completed internships in AI/ML & Python  
 
 ---
 
 ## 🏆 Certifications
 
-- 🧠 **AI/ML Virtual Internship** — EY & Microsoft (2025)  
-- 📊 **Python for Data Science** — NPTEL (2024)  
-- 💻 **Full Stack Development** — ExcelR (2022)  
-- ☕ **Java Course** — Scalar (2025)  
+- 🧠 AI/ML Virtual Internship — EY & Microsoft  
+- 📊 Python for Data Science — NPTEL  
+- 💻 Full Stack Development — ExcelR  
+- ☕ Java — Scalar  
 
 ---
 
 ## 💼 Internships
 
 ### 🤖 Machine Learning Intern — SkillDzire
-✔️ Built and trained machine learning models  
-✔️ Worked with real-world datasets  
-✔️ Learned model evaluation and optimization techniques  
+✔️ Built ML models  
+✔️ Worked with real datasets  
 
 ---
 
 ### 🐍 Python Intern — SkillDzire
-✔️ Strengthened Python programming fundamentals  
-✔️ Worked on problem-solving and mini-projects  
+✔️ Strengthened Python fundamentals  
+✔️ Worked on problem-solving  
 
 ---
 
 ### 💻 Python Developer Intern — Codec Technologies
-✔️ Developed backend automation scripts  
-✔️ Improved debugging and code optimization skills  
+✔️ Developed backend scripts  
+✔️ Improved debugging skills  
 
 ---
 
 ## 🎓 Education
 
-🎓 **B.Tech (CSE - AI & ML)** — CGPA: 8.85  
-📘 **Intermediate (MPC)** — 92.8%  
-🏫 **SSC** — 95.67%  
+🎓 B.Tech (CSE - AI & ML) — CGPA: 8.85  
+📘 Intermediate (MPC) — 92.8%  
+🏫 SSC — 95.67%  
 
 ---
 
 ## 🎯 Strengths
 
 ✨ Quick Learner  
-✨ Strong Problem-Solving Skills  
+✨ Problem-Solving Skills  
 ✨ Adaptability  
 ✨ Team Collaboration  
-✨ Consistent and Self-Motivated  
 
 ---
 
@@ -223,13 +221,15 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 ## ⚡ Fun Fact
 
-✨ I enjoy transforming complex problems into simple, elegant solutions through code.
+✨ I love turning complex problems into simple, elegant solutions using code.
 
 ---
 
 ## 💭 Developer Quote
 
-> 💻 “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
 ---
 
