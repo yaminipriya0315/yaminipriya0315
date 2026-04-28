@@ -1,5 +1,9 @@
 <h1 align="center">✨ Hi 👋, I'm Yamini Priya ✨</h1>
 <h3 align="center">🚀 AI/ML Developer | 💻 Python & Java Developer | 🌟 Building Intelligent Systems</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+  <img src="https://skillicons.dev/icons?i=java" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Python+Developer;Java+Programmer;Problem+Solver;Future+Software+Engineer;Always+Learning+New+Things&center=true&width=650&height=50">
