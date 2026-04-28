@@ -123,30 +123,6 @@ To work in a growth-oriented organization where I can apply my skills, continuou
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yaminipriya0315&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaminipriya0315&theme=tokyonight" height="165"/>
-</p>
-
----
-
-## 🏅 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yaminipriya0315&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaminipriya0315&theme=tokyo-night" />
-</p>
-
----
 
 ## 🏆 Achievements
 
@@ -163,26 +139,6 @@ To work in a growth-oriented organization where I can apply my skills, continuou
 - 📊 Python for Data Science — NPTEL  
 - 💻 Full Stack Development — ExcelR  
 - ☕ Java — Scalar  
-
----
-
-## 💼 Internships
-
-### 🤖 Machine Learning Intern — SkillDzire
-✔️ Built ML models  
-✔️ Worked with real datasets  
-
----
-
-### 🐍 Python Intern — SkillDzire
-✔️ Strengthened Python fundamentals  
-✔️ Worked on problem-solving  
-
----
-
-### 💻 Python Developer Intern — Codec Technologies
-✔️ Developed backend scripts  
-✔️ Improved debugging skills  
 
 ---
 
@@ -236,6 +192,31 @@ To work in a growth-oriented organization where I can apply my skills, continuou
 - Attention to Detail — focused on writing clean, efficient, and maintainable code
 
   ---
+
+  ## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yaminipriya0315&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yaminipriya0315&theme=tokyonight" height="165"/>
+</p>
+
+---
+
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaminipriya0315&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaminipriya0315&theme=tokyo-night" />
+</p>
+
+---
 
 ## 📫 Connect With Me
 
