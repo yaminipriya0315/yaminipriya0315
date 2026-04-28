@@ -194,14 +194,47 @@ To work in a growth-oriented organization where I can apply my skills, continuou
 
 ---
 
-## 🎯 Strengths
+## 💼 Internships
 
-✨ Quick Learner  
-✨ Problem-Solving Skills  
-✨ Adaptability  
-✨ Team Collaboration  
+### 🤖 Machine Learning Intern — SkillDzire
+✔️ Built and trained machine learning models on real-world datasets  
+✔️ Performed data preprocessing, feature engineering, and model evaluation  
+✔️ Applied algorithms such as regression and classification  
+✔️ Gained hands-on experience with model performance optimization  
+✔️ Strengthened understanding of end-to-end ML workflow  
 
 ---
+
+### 🐍 Python Intern — SkillDzire
+✔️ Developed strong fundamentals in Python programming  
+✔️ Implemented data structures and solved coding problems  
+✔️ Worked on mini-projects to apply real-world logic  
+✔️ Improved debugging and logical thinking skills  
+✔️ Practiced writing clean and efficient code  
+
+---
+
+### 💻 Python Developer Intern — Codec Technologies
+✔️ Developed backend automation scripts using Python  
+✔️ Improved code efficiency and reduced execution time  
+✔️ Debugged and optimized existing codebases  
+✔️ Gained experience in real-world development practices  
+✔️ Enhanced problem-solving and analytical skills  
+
+---
+
+## 🎯 Strengths
+
+- Strong Problem-Solving Ability — capable of analyzing complex problems and breaking them into manageable solutions  
+- Quick Learner — able to adapt to new technologies and tools efficiently  
+- Analytical Thinking — strong ability to work with data and derive meaningful insights  
+- Adaptability — comfortable working in new environments and continuous learning  
+- Team Collaboration — effective in working with teams and contributing ideas  
+- Time Management — able to prioritize tasks and meet deadlines consistently  
+- Self-Motivated — proactive in learning and building projects independently  
+- Attention to Detail — focused on writing clean, efficient, and maintainable code
+
+  ---
 
 ## 📫 Connect With Me
 
