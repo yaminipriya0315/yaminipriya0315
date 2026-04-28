@@ -203,6 +203,7 @@ To work in a growth-oriented organization where I can apply my skills, continuou
 ✔️ Gained hands-on experience with model performance optimization  
 ✔️ Strengthened understanding of end-to-end ML workflow  
 
+
 ---
 
 ### 🐍 Python Intern — SkillDzire
