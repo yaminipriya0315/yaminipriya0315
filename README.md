@@ -27,6 +27,7 @@
 - 📊 Experience in **data analysis, predictive modeling, and AI systems**  
 - 🌐 Built **end-to-end applications using web technologies**  
 - 🎯 Goal: Become a **high-impact Software Engineer in AI systems**
+- 💼 Open to: Software Development | AI/ML Roles | Internships
 
 ---
 
