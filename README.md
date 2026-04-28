@@ -31,20 +31,34 @@ With a strong academic background and hands-on experience, I aim to build **inte
 
 ---
 
+## 🔥 Currently Working On
+
+- 📚 Practicing **Data Structures & Algorithms**
+- 🤖 Building **Machine Learning Projects**
+- 💻 Improving **Java & Backend Development**
+- 🌱 Exploring real-world problem solving using AI
+
+---
+
 ## 🎯 Career Objective
 
 To work in a challenging and growth-oriented environment where I can apply my technical skills, learn continuously, and contribute to innovative solutions that solve real-world problems.
 
 ---
----
 
 ## 📄 Resume
 
-🔗 **[View My Resume](https://drive.google.com/file/d/1nXfZc4jxNz2ItKjpdFxhvMBXP_1twWo7/view?usp=sharing)**
+🔗 **[View My Resume](https://drive.google.com/file/d/1nXfZc4jxNz2ItKjpdFxhvMBXP_1twWo7/view)**
 
 💼 I am actively looking for opportunities in **Software Development and AI/ML**.  
 I’m eager to apply my skills, learn from real-world challenges, and contribute effectively to impactful projects.  
 Feel free to connect with me for opportunities or collaborations.
+
+---
+
+## ⚡ Top Skills
+
+`Python` • `Java` • `Machine Learning` • `Data Analysis` • `SQL` • `Problem Solving`
 
 ---
 
@@ -53,6 +67,8 @@ Feel free to connect with me for opportunities or collaborations.
 ### 📈 Stock Market Price Predictor
 
 💡 Developed a machine learning model to predict stock prices using historical data.
+
+📌 Focused on applying machine learning concepts to real-world financial data analysis.
 
 ✨ **Highlights:**
 - 📊 Data preprocessing using **Pandas & NumPy**  
@@ -117,11 +133,27 @@ Feel free to connect with me for opportunities or collaborations.
 
 ---
 
+## 🏅 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yaminipriya0315&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yaminipriya0315&theme=tokyo-night" />
 </p>
+
+---
+
+## 🏆 Achievements
+
+- 🎓 Maintained a strong academic record with **8.85 CGPA**
+- 💡 Completed multiple internships in **AI/ML and Python Development**
+- 🚀 Built real-world projects in **Machine Learning and Web Development**
 
 ---
 
@@ -196,5 +228,5 @@ Feel free to connect with me for opportunities or collaborations.
 
 <p align="center">
   💖 Thanks for visiting my profile!  
-  🚀 <b>Let's build something impactful together!</b>
+  🚀 <b>Open to opportunities, collaborations, and exciting projects!</b>
 </p>
