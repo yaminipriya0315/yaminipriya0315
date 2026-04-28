@@ -167,6 +167,9 @@ To work in a challenging and growth-oriented environment where I can apply my te
   <a href="mailto:yaminipriya0315@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
   </a>
+  <a href="https://www.linkedin.com/in/yamini-priya-yarramsetti-b7a757280">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+  </a>
   <a href="https://github.com/yaminipriya0315">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
   </a>
