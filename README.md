@@ -36,6 +36,17 @@ With a strong academic background and hands-on experience, I aim to build **inte
 To work in a challenging and growth-oriented environment where I can apply my technical skills, learn continuously, and contribute to innovative solutions that solve real-world problems.
 
 ---
+---
+
+## 📄 Resume
+
+🔗 **[View My Resume](https://drive.google.com/file/d/1nXfZc4jxNz2ItKjpdFxhvMBXP_1twWo7/view?usp=sharing)**
+
+💼 I am actively looking for opportunities in **Software Development and AI/ML**.  
+I’m eager to apply my skills, learn from real-world challenges, and contribute effectively to impactful projects.  
+Feel free to connect with me for opportunities or collaborations.
+
+---
 
 ## 🚀 Featured Project
 
