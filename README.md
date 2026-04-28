@@ -1,52 +1,51 @@
 <h1 align="center">✨ Hi 👋, I'm Yamini Priya ✨</h1>
-<h3 align="center">🚀 AI/ML Developer | 💻 Python & Java Developer | 🌟 Building Intelligent Systems</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-  <img src="https://skillicons.dev/icons?i=java" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Python+Developer;Java+Programmer;Problem+Solver;Future+Software+Engineer;Always+Learning+New+Things&center=true&width=650&height=50">
-</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=yaminipriya0315&label=Profile%20Views&color=blueviolet&style=flat" />
 </p>
 
+<h3 align="center">🚀 AI/ML Developer | 💻 Python & Java Developer | 🌟 Building Intelligent Systems</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+ML+Enthusiast;Python+Developer;Java+Programmer;Deep+Learning+Learner;Problem+Solver;Building+Real+World+Projects&center=true&width=650&height=50">
+</p>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Focus-AI%2FML-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Languages-Python%20%7C%20Java-orange?style=for-the-badge">
-  <img src="https://img.shields.io/badge/Status-Learning%20%26%20Building-success?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Status-Building%20AI%20Projects-success?style=for-the-badge">
 </p>
 
 ---
 
 ## 🌟 About Me
 
-💡 I am a passionate **AI & Software Developer** who loves transforming ideas into real-world applications.  
-With a strong academic background and hands-on experience, I aim to build **intelligent, scalable, and impactful systems**.
+💡 I am a motivated and detail-oriented **AI & Software Developer** with a strong passion for building intelligent systems that solve real-world problems.
 
-- 🎓 **B.Tech in Computer Science (AI & ML)**  
-- 📊 CGPA: **8.85 / 10**  
-- 🤖 Skilled in **Machine Learning, Python, and Java**  
-- 🔍 Interested in **AI-driven solutions & backend systems**  
-- 🌱 Currently strengthening **Data Structures & Algorithms (DSA)**  
-- 🎯 Career Goal: Become a **top-tier Software Engineer in AI systems**
+I enjoy working at the intersection of **data, algorithms, and real-world applications**, and continuously strive to improve my technical and problem-solving skills.
+
+- 🎓 **B.Tech in Computer Science (AI & ML)** with CGPA **8.85 / 10**  
+- 🤖 Strong foundation in **Machine Learning, Deep Learning, Python, and Java**  
+- 📊 Experience in **data analysis, model building, and prediction systems**  
+- 🌐 Built **end-to-end applications using web technologies and backend frameworks**  
+- 🚀 Passionate about creating **impactful AI-driven solutions**  
 
 ---
 
 ## 🔥 Currently Working On
 
-- 📚 Practicing **Data Structures & Algorithms**
-- 🤖 Building **Machine Learning Projects**
-- 💻 Improving **Java & Backend Development**
-- 🌱 Exploring real-world problem solving using AI
+- 📚 Practicing **Data Structures & Algorithms** for strong problem-solving  
+- 🤖 Building **Machine Learning & Deep Learning projects**  
+- 💻 Improving **backend development skills (Java & Flask)**  
+- 🌱 Exploring **real-world AI applications and system design basics**  
 
 ---
 
 ## 🎯 Career Objective
 
-To work in a challenging and growth-oriented environment where I can apply my technical skills, learn continuously, and contribute to innovative solutions that solve real-world problems.
+To work in a dynamic and growth-oriented environment where I can apply my technical knowledge, continuously learn new technologies, and contribute to innovative solutions that solve real-world challenges.
+
+I aim to grow into a **high-impact Software Engineer specializing in AI systems**.
 
 ---
 
@@ -54,33 +53,64 @@ To work in a challenging and growth-oriented environment where I can apply my te
 
 🔗 **[View My Resume](https://drive.google.com/file/d/1nXfZc4jxNz2ItKjpdFxhvMBXP_1twWo7/view)**
 
-💼 I am actively looking for opportunities in **Software Development and AI/ML**.  
-I’m eager to apply my skills, learn from real-world challenges, and contribute effectively to impactful projects.  
-Feel free to connect with me for opportunities or collaborations.
+💼 I am actively seeking opportunities in **Software Development and AI/ML roles** where I can:
+- Apply my technical skills in real-world scenarios  
+- Learn from experienced professionals  
+- Contribute to meaningful and impactful projects  
 
 ---
 
 ## ⚡ Top Skills
 
-`Python` • `Java` • `Machine Learning` • `Data Analysis` • `SQL` • `Problem Solving`
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge"/>
+</p>
 
 ---
 
 ## 🚀 Featured Project
 
-### 📈 Stock Market Price Predictor
+### 🧠 Diabetic Retinopathy Detection Using Deep Learning
 
-💡 Developed a machine learning model to predict stock prices using historical data.
+💡 Developed an AI-based medical screening system to detect and classify diabetic retinopathy from retinal images.
 
-📌 Focused on applying machine learning concepts to real-world financial data analysis.
+✨ **Key Contributions:**
+- 🧠 Implemented **EfficientNet-B5** for high-performance image classification  
+- 🩺 Classified disease into **five severity levels**  
+- 🎨 Used **CLAHE preprocessing** to enhance image quality  
+- 🌐 Built backend using **Flask** for prediction and reporting  
+- 📊 Created a complete pipeline from input image to diagnostic output  
 
-✨ **Highlights:**
-- 📊 Data preprocessing using **Pandas & NumPy**  
-- 🤖 Model training with **Scikit-learn**  
-- 📉 Predictive analysis of stock trends  
-- 📈 Visualization using **Matplotlib**  
+🛠️ Tech Stack: Python, TensorFlow/Keras, OpenCV, Flask  
 
-🛠️ **Tech Stack:**  
+---
+
+## 💼 Projects Showcase
+
+### 📈 Stock Market Estimator
+🔹 Developed a financial analysis tool using **Yahoo Finance API**  
+🔹 Processed and cleaned stock data using **Pandas**  
+🔹 Performed trend analysis and visualization using **Matplotlib**  
+🔹 Gained insights into real-world financial data behavior  
+
+🛠️ Tech Stack: Python, Pandas, Matplotlib  
+
+---
+
+### 🎟️ Movie Ticket Booking Website
+🔹 Built a responsive web application for ticket booking  
+🔹 Implemented movie filtering, showtime selection, and seat layout  
+🔹 Designed an interactive and user-friendly interface  
+
+🛠️ Tech Stack: HTML, CSS, JavaScript  
+
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
@@ -90,49 +120,6 @@ Feel free to connect with me for opportunities or collaborations.
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
 </p>
-
----
-
-## 💼 Projects Showcase
-
-### 🎟️ Movie Ticket Booking Website
-🔹 Built a responsive web application for booking tickets  
-🔹 Implemented movie filtering, showtime selection, and seat layout  
-🔹 Designed interactive UI using JavaScript  
-
----
-
-### 🌐 Personal Portfolio Website
-🔹 Developed a modern portfolio website  
-🔹 Showcases projects, skills, and achievements  
-🔹 Fully responsive design using HTML, CSS, JavaScript  
-
----
-
-### 🤖 Machine Learning Mini Projects
-🔹 Built basic predictive models  
-🔹 Practiced data preprocessing and evaluation  
-🔹 Strengthened ML fundamentals  
-
----
-
-## 💻 Tech Stack & Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mysql,mongodb,git,github,vscode" />
-</p>
-
-### 🔹 Programming Languages
-`Python` • `Java` • `C`
-
-### 🔹 Web Development
-`HTML` • `CSS` • `JavaScript`
-
-### 🔹 Machine Learning
-`Pandas` • `NumPy` • `Scikit-learn` • `Matplotlib`
-
-### 🔹 Databases
-`SQL` • `MongoDB (Basics)`
 
 ---
 
@@ -163,9 +150,10 @@ Feel free to connect with me for opportunities or collaborations.
 
 ## 🏆 Achievements
 
-- 🎓 Maintained a strong academic record with **8.85 CGPA**
-- 💡 Completed multiple internships in **AI/ML and Python Development**
-- 🚀 Built real-world projects in **Machine Learning and Web Development**
+- 🎓 Maintained strong academic performance (**8.85 CGPA**)  
+- 🤖 Developed an **AI-based medical diagnostic system**  
+- 📊 Built a **financial data analysis project using real datasets**  
+- 💼 Completed internships in **AI/ML and Python Development**  
 
 ---
 
@@ -183,19 +171,19 @@ Feel free to connect with me for opportunities or collaborations.
 ### 🤖 Machine Learning Intern — SkillDzire
 ✔️ Built and trained machine learning models  
 ✔️ Worked with real-world datasets  
-✔️ Learned model evaluation techniques  
+✔️ Learned model evaluation and optimization techniques  
 
 ---
 
 ### 🐍 Python Intern — SkillDzire
-✔️ Strengthened Python fundamentals  
-✔️ Worked on data structures and mini-projects  
+✔️ Strengthened Python programming fundamentals  
+✔️ Worked on problem-solving and mini-projects  
 
 ---
 
 ### 💻 Python Developer Intern — Codec Technologies
 ✔️ Developed backend automation scripts  
-✔️ Improved debugging and code optimization  
+✔️ Improved debugging and code optimization skills  
 
 ---
 
@@ -211,8 +199,9 @@ Feel free to connect with me for opportunities or collaborations.
 
 ✨ Quick Learner  
 ✨ Strong Problem-Solving Skills  
-✨ Positive Attitude  
+✨ Adaptability  
 ✨ Team Collaboration  
+✨ Consistent and Self-Motivated  
 
 ---
 
@@ -234,7 +223,13 @@ Feel free to connect with me for opportunities or collaborations.
 
 ## ⚡ Fun Fact
 
-✨ I love turning ideas into real-world applications using code and continuously exploring new technologies!
+✨ I enjoy transforming complex problems into simple, elegant solutions through code.
+
+---
+
+## 💭 Developer Quote
+
+> 💻 “Programs must be written for people to read, and only incidentally for machines to execute.” – Harold Abelson
 
 ---
 
