@@ -254,7 +254,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 ## 💭 Quote of the Day
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=0" />
+ <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
