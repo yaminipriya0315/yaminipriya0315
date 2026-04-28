@@ -57,8 +57,15 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 ## 🎓 Education
 
-- 🎓 **B.Tech (CSE - AI & ML)** — CGPA: **8.85 / 10**  
-- 📘 **Intermediate (MPC)** — **92.8%**  
+- 🎓 **B.Tech in Computer Science & Engineering (AI & ML)**  
+  Sasi Institute of Technology and Engineering — Tadepalligudem, Andhra Pradesh  
+  CGPA: **8.85 / 10**  
+  2022 – 2026  
+
+- 📘 **Intermediate (MPC)**  
+  Vidya Vikas Junior College — Eluru, Andhra Pradesh  
+  Percentage: **92.8%**  
+  2020 – 2022  
 - 🏫 **SSC** — **95.67%**
 
 ---
