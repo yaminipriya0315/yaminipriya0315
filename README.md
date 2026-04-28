@@ -66,7 +66,6 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
   Vidya Vikas Junior College — Eluru, Andhra Pradesh  
   Percentage: **92.8%**  
   2020 – 2022  
-- 🏫 **SSC** — **95.67%**
 
 ---
 
@@ -78,6 +77,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
   <img src="https://img.shields.io/badge/Machine%20Learning-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask"/>
   <img src="https://img.shields.io/badge/Problem%20Solving-success?style=for-the-badge"/>
 </p>
 
@@ -115,6 +115,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 - 🎨 Applied **CLAHE preprocessing** for image enhancement  
 - 🌐 Developed backend using **Flask** for predictions and reporting  
 - 📊 Created an end-to-end pipeline from image input to diagnostic output  
+- 🎯 Achieved effective classification performance for early disease detection  
 
 🛠️ Tech Stack: Python, TensorFlow/Keras, OpenCV, Flask  
 
@@ -126,7 +127,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 🔹 Built a financial analysis tool using **Yahoo Finance API**  
 🔹 Performed data preprocessing and analysis using **Pandas**  
 🔹 Visualized stock trends using **Matplotlib**  
-🔹 Gained insights into real-world financial data patterns  
+🔹 Analyzed real-world stock data to identify trends and patterns  
 
 🛠️ Tech Stack: Python, Pandas, Matplotlib  
 
@@ -144,7 +145,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 ## 💼 Internships
 
 ### 🤖 Machine Learning Intern — SkillDzire
-✔️ Built and trained machine learning models on real-world datasets  
+✔️ Built and trained machine learning models using Python and Scikit-learn  
 ✔️ Performed data preprocessing, feature engineering, and model evaluation  
 ✔️ Applied algorithms such as regression and classification  
 ✔️ Gained hands-on experience with model performance optimization  
@@ -190,6 +191,7 @@ I aim to grow into a **high-impact Software Engineer specializing in AI systems*
 
 ## 🎯 Strengths
 
+- Data Structures & Algorithms — actively practicing problem-solving techniques  
 - Strong Problem-Solving Ability — capable of analyzing complex problems and breaking them into manageable solutions  
 - Quick Learner — able to adapt to new technologies and tools efficiently  
 - Analytical Thinking — strong ability to work with data and derive meaningful insights  
